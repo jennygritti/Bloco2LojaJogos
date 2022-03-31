@@ -2,6 +2,8 @@ package com.generation.lojajogos.model;
 
 import java.util.List;
 
+import javax.validation.Valid;
+
 import javax.persistence.CascadeType;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

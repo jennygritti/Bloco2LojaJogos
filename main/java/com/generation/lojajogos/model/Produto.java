@@ -1,5 +1,7 @@
 package com.generation.lojajogos.model;
 
+import javax.validation.Valid;
+
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
